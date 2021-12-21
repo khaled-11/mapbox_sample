@@ -1,0 +1,21 @@
+{
+  "name": "mapbox_sample",
+  "version": "1.0.0",
+  "description": "web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mapbox"
+  ],
+  "author": "khaled abouseada",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "node-geocoder": "^3.28.0",
+    "path": "^0.12.7"
+  }
+}
